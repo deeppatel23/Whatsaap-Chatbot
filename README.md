@@ -15,7 +15,7 @@ Instance for each received message is created and the bot works according to it.
 <li>At the end, it automatically closes the web browser.</li>
 </ul>
 
-<br><b>Selenium module from python and Chrome driver is needed to be installed first.</b></br>
+<br><b>Prerequisite: Selenium module from python and Chrome driver is needed to be installed first.</b></br>
  <br></br>
 
 Message received : Hi
