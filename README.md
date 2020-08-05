@@ -1,6 +1,6 @@
 # Whatsaap-Chatbot
 
-Have you ever wished to automatically wish your friends on their birthdays, or send a set of messages to your friend ( or any Whastapp contact! ) automatically at a pre-set time, or send your friends by sending thousands of random text on whatsapp!
+Have you ever wished to automatically wish your friends on their birthdays, or send a set of messages to your friend ( or any Whastapp contact! ) automatically at a pre-set time, or setup an algorithm to automatically reply on daily messages to your friends on whatsapp! If <b>YES</b> then you are at right place.
 
 <br><b>Note: This Bot is based on pre-defined responces</b></br>
 
@@ -15,7 +15,7 @@ Instance for each received message is created and the bot works according to it.
 <li>At the end, it automatically closes the web browser.</li>
 </ul>
 
-<br><b>Selenium module and Chrome driver is needed to be installed first.</b></br>
+<br><b>Selenium module from python and Chrome driver is needed to be installed first.</b></br>
  <br></br>
 
 Message received : Hi
