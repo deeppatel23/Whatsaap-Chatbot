@@ -6,12 +6,12 @@ So, whats new in this bot?
 <br></br>
 <br> <b> Features of this Chatbot : </b></br>
 <ul>
-<br><li>Here, this bot replies as per the message received.
-Instance for each received message is created and the bot works according to it. So, here is the example of how the Chatbot replies to the message received.</li></br>
-<br><li>Scan the QR code only once, and afterwards it will use browser chache to open WhatsAap Web.</li></br>
-<br><li>Talk automatically with multiple users.</li></br>
-<br><li>Can be connected to Deep Learning model to reply messages.</li></br>
-<br><li>At the end, it automatically closes the web browser.</li></br>
+<li>Here, this bot replies as per the message received.
+Instance for each received message is created and the bot works according to it. So, here is the example of how the Chatbot replies to the message received.</li>
+<li>Scan the QR code only once, and afterwards it will use browser chache to open WhatsAap Web.</li>
+<li>Talk automatically with multiple users.</li>
+<li>Can be connected to Deep Learning model to reply messages.</li>
+<li>At the end, it automatically closes the web browser.</li>
 </ul>
 
 <br><b>Selenium module and Chrome driver is needed to be installed first.</b></br>
