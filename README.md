@@ -3,18 +3,19 @@
 Have you ever wished to automatically wish your friends on their birthdays, or send a set of messages to your friend ( or any Whastapp contact! ) automatically at a pre-set time, or send your friends by sending thousands of random text on whatsapp!
 
 So, whats new in this bot?
-<br> <b> Features of this Chatbot : </b></br>
-<br>Here, this bot replies as per the message received.
-Instance for each received message is created and the bot works according to it. So, here is the example of how the Chatbot replies to the message received.</br>
-<br>Scan the QR code only once, and afterwards it will use browser chache to open WhatsAap Web.</br>
-<br>Talk automatically with multiple users.</br>
-<br>Can be connected to Deep Learning model to reply messages.</br>
-<br>At the end, it automatically closes the web browser.</br>
-
 <br></br>
+<br> <b> Features of this Chatbot : </b></br>
+<ul>
+<br><li>Here, this bot replies as per the message received.
+Instance for each received message is created and the bot works according to it. So, here is the example of how the Chatbot replies to the message received.</li></br>
+<br><li>Scan the QR code only once, and afterwards it will use browser chache to open WhatsAap Web.</li></br>
+<br><li>Talk automatically with multiple users.</li></br>
+<br><li>Can be connected to Deep Learning model to reply messages.</li></br>
+<br><li>At the end, it automatically closes the web browser.</li></br>
+</ul>
+
 <br><b>Selenium module and Chrome driver is needed to be installed first.</b></br>
  <br></br>
-
 
 Message received : Hi
 <br><i>Chatbot reply    : Hello!!</i></br>
