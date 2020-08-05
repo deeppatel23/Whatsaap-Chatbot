@@ -17,7 +17,7 @@ Instance for each received message is created and the bot works according to it.
 
 <br><b>Prerequisite: Selenium module from python and Chrome driver is needed to be installed first.</b></br>
  <br></br>
-
+Below shown messages is an example of how a chatbot works.<br></br>
 Message received : Hi
 <br><i>Chatbot reply    : Hello!!</i></br>
 <br></br>
