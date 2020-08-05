@@ -6,26 +6,26 @@ So, whats new in this bot?
 Here, this bot replies as per the message received.
 
 Message received : Hi
-<br><i>Chatbot reply    : Hello!!</i>
+<br><i>Chatbot reply    : Hello!!</i></br>
 Message received : How are you
-<br><i>Chatbot reply    : I am fine. What about you?</i>
+<br><i>Chatbot reply    : I am fine. What about you?</i></br>
 Message received : Good
-<br><i>Chatbot reply    : That's Great!</i>
+<br><i>Chatbot reply    : That's Great!</i></br>
 Message received : What can you do for me
 <br><i>Chatbot reply    : 1. Check current Weather
 2.Tell a joke
-Select the task Weather/Jokes to perform.</i>
+Select the task Weather/Jokes to perform.</i></br>
 Message received : Weather
 <br><i>Chatbot reply    : Navsari's temperature: 29°C 
 Wind speed: 2.6 m/s
 Description: scattered clouds
 Weather: Clouds
-Hope, you like my service.</i>
+Hope, you like my service.</i></br>
 Message received : Yes
-<br><i>Chatbot reply    : Thank you!</i>
+<br><i>Chatbot reply    : Thank you!</i></br>
 Message received : I need your help
-<br><i>Chatbot reply    : Okay! My master will text you back, when he is free.</i>
+<br><i>Chatbot reply    : Okay! My master will text you back, when he is free.</i></br>
 Message received : Ok
-<br><i>Chatbot reply    : Yes!</i>
+<br><i>Chatbot reply    : Yes!</i></br>
 Message received : By
-<br><i>Chatbot reply    : Bye SeeYa..!</i>
+<br><i>Chatbot reply    : Bye SeeYa..!</i></br>
