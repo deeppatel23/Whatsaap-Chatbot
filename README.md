@@ -2,6 +2,8 @@
 
 Have you ever wished to automatically wish your friends on their birthdays, or send a set of messages to your friend ( or any Whastapp contact! ) automatically at a pre-set time, or send your friends by sending thousands of random text on whatsapp!
 
+<br><b>This Bot is based on pre-defined responces</b></br>
+
 So, whats new in this bot?
 <br></br>
 <br> <b> Features of this Chatbot : </b></br>
